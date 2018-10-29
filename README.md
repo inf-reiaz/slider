@@ -1,1 +1,1 @@
-# revolution slider HTML
+# Revolution Slider HTML
